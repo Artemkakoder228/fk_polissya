@@ -3,6 +3,7 @@ body {
   font-size: 20px;
   color: #000;
   background: #1397248f url("images/images.jpg") 50% 0;
+  background: #326717 url('/images/bg.jpg') center top no-repeat;
 }
 
 h1 {
@@ -16,4 +17,16 @@ p {
 
 img {
     width: 100px;
+}
+
+#hightligth {
+  background: rgba(0, 200, 0, 0.1);
+  padding: 20px;
+  margin: 20px 0;
+}
+
+
+footer {
+  background-color: #000;
+  color: #fff;
 }
