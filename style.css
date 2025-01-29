@@ -3,7 +3,7 @@ body {
   font-size: 20px;
   color: #000;
   background: #1397248f url("images/images.jpg") 50% 0;
-  background: #326717 url('/images/bg.jpg') center top no-repeat;
+  background: #326717 url('images/bg.jpg') center top no-repeat;
 }
 
 h1 {
