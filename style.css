@@ -24,9 +24,23 @@ img {
   padding: 20px;
   margin: 20px 0;
 }
+.stadion {
+  width: 600px;
+}
 
+
+.hightligth-container {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+}
+
+.hightligth-conyainer article {
+  width: 300px;
+}
 
 footer {
   background-color: #000;
   color: #fff;
 }
+
